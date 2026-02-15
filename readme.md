@@ -81,6 +81,7 @@ This isn’t a hyper-optimized RF design for extreme environments — it’s a p
 **SET = capacitor assortment set (~4 USD)**  
 https://www.aliexpress.com/item/1005010535197475.html
 **Whole cost +-103$**
+**PCB = 13,30 DOLLARS**
 
 ## How to Use
 
