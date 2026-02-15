@@ -1,4 +1,5 @@
-<img width="357" height="296" alt="image" src="https://github.com/user-attachments/assets/59b191ce-7faa-4173-9152-372693915603" /># LOORAAA!
+
+# LOORAAA!
 
 LOORAAA! is a small LoRa module I designed myself, based on the general idea of the LoRa Puck. I didn’t copy the board — I recreated the design in my own way and added a few small changes, mainly status LEDs, so it’s actually useful during testing and debugging.
 
