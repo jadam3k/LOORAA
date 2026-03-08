@@ -86,6 +86,14 @@ https://www.aliexpress.com/item/1005010535197475.html
 
 **PCB = 13,30 DOLLARS**
 
+## ScreenShots
+<img width="3507" height="2480" alt="image" src="https://github.com/user-attachments/assets/21485f2d-1a9d-47b8-a19c-186dde1149d6" />
+<img width="636" height="566" alt="image" src="https://github.com/user-attachments/assets/7e7e5d68-3177-49b1-9637-0b2ef76ee53e" />
+<img width="771" height="458" alt="image" src="https://github.com/user-attachments/assets/24b12c71-7171-4b99-8dd5-c677b4910512" />
+
+
+
+
 ## How to Use
 
 1. Flash the firmware to the RP2040.
